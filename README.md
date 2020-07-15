@@ -23,7 +23,7 @@ Feitos através do Canal do Youtube the Coding Train.
 
 ---
 
-### Alguns exemplos de conteúdo
+### Alguns exemplos do conteúdo
 
 ![](/array/export/0095.png) 
 ![](/array/export/0233.png)
